@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SohKuranaga&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
-
